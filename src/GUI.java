@@ -1,3 +1,9 @@
+/***
+ *
+ * Author: DeusMaveriX ( https://github.com/DeusMaveriX )
+ *
+ ***/
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
